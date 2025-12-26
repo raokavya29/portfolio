@@ -1,6 +1,11 @@
 title: Kavya Rao
 description: Economist | Trade | M&E
-theme: minimal-mistakes-jekyll
+theme: mmistakes/minimal-mistakes@4.24.0minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
 
 navigation:
   main: main
