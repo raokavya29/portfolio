@@ -1,7 +1,6 @@
-remote_theme: minimal-mistakes-jekyll
-plugins:
-- jekyll-feed # add this line to the plugins list if you already have one
-- jekyll-seo-tag
-title: [Kavya Rao]
-description: [Economist | M&E Professional]
+title: Kavya Rao
+description: Economist | Trade | M&E
+theme: minimal-mistakes-jekyll
 
+navigation:
+  main: main
