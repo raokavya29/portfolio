@@ -1,4 +1,6 @@
-## About Me
+![kavya_formal](https://github.com/user-attachments/assets/71db38a4-71d7-4621-91a1-02374a7e378c)## About Me
+
+[Uploading kavya_formal.jpg…]()
 
 I am an economist and policy analyst with over three years of experience working at the intersection of trade, public finance, and program evaluation. My work focuses on applying quantitative and mixed-methods research to inform evidence-based policymaking, particularly in the areas of international trade, state finances, and development outcomes.
 
