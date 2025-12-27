@@ -1,5 +1,4 @@
 title: "Kavya Rao"
-avatar: "/kavya_formal.jpg"
 description: "Economist | Trade | M&E"
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -11,5 +10,8 @@ plugins:
 
 navigation:
   main: main
- 
 
+author:
+  name: "Kavya Rao"
+  avatar: "/kavya_formal.jpg"
+  
