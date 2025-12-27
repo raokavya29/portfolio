@@ -1,6 +1,6 @@
 ---
 layout: home
-title: " "
+title: ""
 author_profile: true
 header:
   show_overlay_excerpt: false
