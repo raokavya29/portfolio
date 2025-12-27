@@ -1,7 +1,8 @@
 ---
 layout: single
-title: "About"
+title: About
 permalink: /about/
+author_profile: true
 ---
 
-This is my about page.
+About me content here.
