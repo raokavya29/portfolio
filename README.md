@@ -1,6 +1,6 @@
 # Kavya Rao – Personal Website
 
-This repository hosts my personal academic and policy portfolio built using GitHub Pages and Jekyll.
+This repository hosts my portfolio built using GitHub Pages and Jekyll.
 
 The site includes:
 - About
