@@ -2,16 +2,11 @@
 title: Projects
 layout: page
 permalink: /projects/
+author_profile: true
 ---
 
-## Trade Watch Quarterly – NITI Aayog
-- Co-developed quarterly trade analytics assessing sectoral performance and global market opportunities.
-- Conducted product-level tariff and competitiveness analysis across major global markets.
+### Trade Watch Quarterly  
+Sectoral and tariff-level trade analysis at NITI Aayog.
 
-## Fiscal Health Index
-- Co-led development of a composite index to monitor state-level fiscal performance.
-- Used in ministerial reviews and policy discussions.
-
-## Education & M&E Analytics
-- Designed large-scale surveys and dashboards covering over 200,000 observations.
-- Worked on FLN and SEL assessment frameworks in collaboration with state governments and multilaterals.
+### Fiscal Health Index  
+State-level fiscal monitoring framework.
