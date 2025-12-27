@@ -23,4 +23,7 @@ defaults:
       path: ""
     values:
       author_profile: true
+
+      include:
+  - _pages
   
