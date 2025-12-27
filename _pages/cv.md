@@ -6,7 +6,7 @@ permalink: /cv/
 ---
 
 <iframe
-  src="assets/pdf/Kavya_Rao_CV.pdf"
+  src="/assets/pdf/Kavya_Rao_CV.pdf"
   width="100%"
   height="900px"
   style="border: none;">
