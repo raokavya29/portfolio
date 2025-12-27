@@ -2,6 +2,7 @@ title: "Kavya Rao"
 description: "Economist | Trade | M&E"
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+author_profile: true
 
 plugins:
   - jekyll-include-cache
@@ -22,8 +23,6 @@ defaults:
   - scope:
       path: ""
     values:
-      author_profile: true
-
-      include:
+ include:
   - _pages
   
