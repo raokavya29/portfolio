@@ -1,7 +1,5 @@
 ---
 layout: single
-title: "CV"
+title: CV
 permalink: /cv/
 ---
-
-CV content here.
