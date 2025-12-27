@@ -2,6 +2,8 @@
 layout: home
 title: Kavya Rao
 author_profile: true
+header:
+  show_overlay_excerpt: false
 ---
 
 Economist | Policy Analyst | M&E
