@@ -6,6 +6,7 @@ baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-include-cache
 
 author_profile: true
@@ -13,9 +14,3 @@ author_profile: true
 author:
   name: ""
   avatar: "/kavya_formal.jpg"
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: single
