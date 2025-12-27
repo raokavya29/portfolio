@@ -3,7 +3,7 @@ description: "Economist | Policy Analyst | M&E"
 url: "https://raokavya29.github.io"
 baseurl: ""
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-feed
