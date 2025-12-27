@@ -14,4 +14,13 @@ navigation:
 author:
   name: "Kavya Rao"
   avatar: "/kavya_formal.jpg"
+  bio: ''
+
+  minimal_mistakes_skin: default
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      author_profile: true
   
